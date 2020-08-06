@@ -1,4 +1,4 @@
-package array;
+package array.simplepointers;
 
 public class TrappingRainWater {
     /*

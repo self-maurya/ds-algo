@@ -1,4 +1,4 @@
-package array;
+package array.simplepointers;
 
 import java.util.ArrayList;
 import java.util.List;
